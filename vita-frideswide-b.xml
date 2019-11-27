@@ -77,7 +77,10 @@
 <list>
 <item>De patre et matre sancte <name><app><lem wit="#M">frideswide</lem><rdg wit="#G">frideswythe</rdg><note xml:lang="en">This witness uses this spelling throughout.</note></app></name>. et de natiuitate eius et disciplina.</item>
 <lb source="#M"/><item>De morte matris eius. et de prouectu eius in sancta conuersatione et de construc<lb source="#M" break="no"/>to a patre eius monasterio. et quomodo monacha facta est⸵ et de morte patris eius.</item>
-<lb source="#M"/><item>Quomodo post mortem patris. de die in diem uirtutibus crescebat. et qualiter ab ea confu<lb source="#M" break="no"/>tatus abscessit diabolus.</item> <item>De nuntiis regis <name>algari</name> obcecatis. et precibus illius
+<lb source="#M"/><item>Quomodo post mortem patris. de die in diem uirtutibus crescebat. et qualiter ab ea confu<lb source="#M" break="no"/>tatus abscessit diabolus.</item>
+<pb source="#G" n="225v"/>
+<cb source="#G" n="a"/>
+<item>De nuntiis regis <name>algari</name> obcecatis. et precibus illius
 <lb source="#M"/>sanitati restitutis.</item> <item>Quomodo ab angelo instructa regis <name>algari</name> <app><lem wit="#M #G">uisitauit in<lb source="#M" break="no"/>saniam</lem><rdg source="#Blair">uitauit uesaniam</rdg></app>.<!-- Blair's suggestion is stylistically better, but not necessary; cf. DMLBS s.v. visitare 3 --></item> <item>De regis <name>algari</name> obcecatione. et quare non intrant reges in <name><app><lem wit="#G">oxinefordiam</lem><rdg wit="#M" ana="#orthographical">oxe<lb source="#M" break="no"/>nefordiam</rdg></app></name>.</item> <item>De puella sanata per stillam cadentem ex manibus eius.</item> <item>Quomodo
 <lb source="#M"/>in predio quod <name>beneseia</name> dicitur habitauit. et fontem precibus impetrauit.</item> <item>Quo<lb source="#M" break="no"/>modo relaxauit precibus manum hominis a manubrio securis.</item> <item>De piscatore a de<lb source="#M" break="no"/>monio liberato.</item> <item>De leproso osculo eius sanato.</item> <item>Quomodo morienti ap<lb source="#M" break="no"/>paruerunt sancta <name><app><lem wit="#M">caterina</lem><rdg wit="#G">katerina</rdg></app></name> atque <name>cecilia</name>. et de luce et odore refuso.</item>
 <lb source="#M"/><item>Quomodo paraliticus quidam et contractus alius sanati sunt ad eius exequias.</item>
@@ -104,7 +107,9 @@
 <lb source="#M"/>fructumque plurimum produxisset⸵ subregulus quidam <name>didanus</name> nomine. uir
 <pb source="#M" n="132v"/>
 <lb source="#M"/>catholicus et omni morum honestate prestantissimus. ciuitatem que lingua sa<lb source="#M" break="no"/>xonica <mentioned><name><app><lem wit="#C #G">oxinefordia</lem><rdg wit="#M" ana="#orthographical">oxenefordia</rdg></app></name></mentioned> denominatur. quod nos latine <mentioned><name>boum<!-- chk: no MSS with 'bouum' --> uadum</name></mentioned> dicere possu<lb source="#M" break="no"/>mus⸵ incolatus sui <app><lem wit="#M #C">frequentatione</lem><rdg wit="#G">frequentationem</rdg></app> honestabat.</p> <p>Hic nutu diuino uxorem
-<lb source="#M"/>moribus suis congruam <name>Safridam</name> nomine accepit. de qua morum magis quam
+<lb source="#M"/>moribus suis congruam 
+<cb source="#G" n="b"/>
+<name>Safridam</name> nomine accepit. de qua morum magis quam
 <lb source="#M"/>prediorum heredem <app><lem wit="#G">suscepit</lem><rdg wit="#C">su<subst><del rend="altered"><unclear>rr</unclear></del><add place="inline">sc</add></subst>epit</rdg><rdg wit="#M">accepit</rdg></app> <app><lem wit="#M #G">unicam</lem><rdg wit="#C">u<subst><del rend="altered">in</del><add place="inline">ni</add></subst>cam</rdg></app> uidelicet filiam. quam fonte sacri bap<lb source="#M" break="no"/>tismatis ablutam <name>frideswidam</name> appellari precepit.</p> <p><milestone unit="section" n="3"/>Transacto <app><lem wit="#M">quippe</lem><rdg wit="#C #G"/></app> quin<lb source="#M" break="no"/>quennio diligenti educatione⸵ litterarum studiis erudienda traditur. sub
 <lb source="#M"/>matrone cuiusdam admodum religiose disciplina⸵ cui nomen <name>algiua</name>.</p> <p>Feli<lb source="#M" break="no"/>cis <app><lem wit="#M #G">quidem</lem><wit wit="#C">quid<subst><del rend="strikethrough">a</del><add place="above">e</add></subst>m</wit></app> posteritatis quoddam quasi felicissimum presagium. in ipso eius <app><lem wit="#M #G">dis<lb source="#M" break="no"/>cipline primordio adeo</lem><rdg wit="#C" ana="#ordinal">primordio adeo discipline</rdg></app> enituit. ut perspicuum foret omnibus quoniam mentem
 <lb source="#M"/>illius iamiam sibi <app><lem wit="#M #G">habitaculum</lem><rdg wit="#C"/></app> preelegerat spiritus sanctus.</p><!-- break in G --> <p><app><lem wit="#C #G">Quis etenim</lem><rdg wit="#M">Quisenim</rdg></app> non obstupesceret <app><lem wit="#C #G">quinquennem</lem><rdg wit="#M">quinquennam</rdg></app> uirgunculam in quinque fere mensibus psalmos dauiticos qui
@@ -121,7 +126,10 @@
 <p>
 <lb source="#M"/><milestone unit="section" n="4"/>Nec adultam adhuc etas eam proprio consignabat uiri⸵ cum iam ma<lb source="#M" break="no"/>ter eius de medio <app><lem wit="#C #G">discessit</lem><rdg wit="#M">decessit</rdg></app>.</p> <p>Altero igitur <app><lem wit="#M #G">carens uirgo</lem><rdg wit="#C" ana="#ordinal">uirgo carens</rdg></app> solatio⸵ patri
 <lb source="#M"/>protegenda relinquitur. Quem <app><lem wit="#M #G">saluberrimis</lem><rdg wit="#C">salube<del rend="erased">r</del>rimis</rdg></app> <app><lem wit="#C #G">quoad</lem><rdg wit="#M" ana="#orthographical">quoat</rdg></app> potuit impellebat mo<lb source="#M" break="no"/>nitis. ne pigritaretur iturus hinc in breui quo precessit thori socia⸵ anime
-<lb source="#M"/>sue remedia querere.</p> <p>At ille ut assolet coniugis nuper amisse <app><lem wit="#M #C">dolore</lem><rdg wit="#G">dolorem</rdg></app> percul<lb source="#M" break="no"/>sus. et <app><lem wit="#C #G">assiduis</lem><rdg wit="#M">assidue</rdg></app> dilectissime filie precibus compulsus⸵ ecclesiam infra urbis am<lb source="#M" break="no"/>bitum construxit. et in honore sancte ac sempiterne trinitatis⸵ semperque uirgi<pb source="#M" n="133r" break="no"/><lb source="#M" break="no"/>nis dei genitricis <name>Marie</name> omniumque sanctorum dedicatam. filie commendauit
+<lb source="#M"/>sue remedia querere.</p> <p>At ille ut assolet coniugis nuper amisse <app><lem wit="#M #C">dolore</lem><rdg wit="#G">dolorem</rdg></app> percul<lb source="#M" break="no"/>sus. et <app><lem wit="#C #G">assiduis</lem><rdg wit="#M">assidue</rdg></app> dilectissime filie precibus compulsus⸵ ecclesiam infra urbis am<lb source="#M" break="no"/>bitum 
+<pb source="#G" n="226r"/>
+<cb source="#G" n="a"/>
+construxit. et in honore sancte ac sempiterne trinitatis⸵ semperque uirgi<pb source="#M" n="133r" break="no"/><lb source="#M" break="no"/>nis dei genitricis <name>Marie</name> omniumque sanctorum dedicatam. filie commendauit
 <lb source="#M"/>poscenti.</p> <p>Ipsa uero ecclesiam ingressa.<!-- orig. ⸵ M --> diuinis se <app><lem wit="#M #G">studiosissime mancipabat</lem><rdg wit="#C" ana="#ordinal"><seg xml:id="Csm1">mancipabat</seg> <seg xml:id="Csm2">studiosis<add place="above">s</add>ime</seg><add place="inline"><listTranspose><transpose><ptr target="#Csm2"/><ptr target="#Csm1"/></transpose></listTranspose></add><!-- chk rendering --></rdg></app>
 <lb source="#M"/>operibus⸵ suam domino pudicitiam sedulis commendans 
 <pb source="#C" n="168"/>
@@ -140,7 +148,7 @@ precibus. pietatis <app><lem wit="#M #G">uisce<lb source="#M" break="no"/>ra</le
 <cb source="#C" n="b"/>
 <app><lem wit="#C #G">uero</lem><rdg wit="#M"/></app> uir<lb source="#M" break="no"/>guncule hilaris admodum effectus tripudiabat. quia heredem quem
 <lb source="#M"/>terrenarum rerum putabat prestari superstitem⸵ iam ad celestia cernebat
-<lb source="#M"/><app><lem wit="#M #C">hanelantem</lem><rdg wit="#G" ana="#orthographical">anhelantem</rdg></app>.</p> <p><milestone unit="section" n="5"/>Et quidem ut omnem spem corruptibilis posteritatis <app><lem wit="#M #C">eam ple<lb source="#M" break="no"/>ne</lem><rdg wit="#G"/></app> postposuisse constaret⸵ exegit a patre. <app><lem wit="#M #G">monacharum</lem><rdg wit="#C">monach<subst><del rend="altered">o</del><add place="inline">a</add></subst>rum</rdg></app> ut mereretur
+<lb source="#M"/><app><lem wit="#M #C">hanelantem</lem><rdg wit="#G" ana="#orthographical">anhelantem</rdg></app>.</p> <p><milestone unit="section" n="5"/>Et quidem ut omnem spem corruptibilis posteritatis <app><lem wit="#M #C">eam ple<lb source="#M" break="no"/>ne</lem><rdg wit="#G"/></app> postposuisse constaret⸵ ex<cb source="#G" n="b" break="no"/>egit a patre. <app><lem wit="#M #G">monacharum</lem><rdg wit="#C">monach<subst><del rend="altered">o</del><add place="inline">a</add></subst>rum</rdg></app> ut mereretur
 <lb source="#M"/>habitum suscipere. <app><lem wit="#G #C">Prudenti</lem><rdg wit="#M">Prudente</rdg></app><!-- 'praecauere' takes dat. --> proculdubio precauens consilio⸵ ne forte de<lb source="#M" break="no"/>functo patre cuiusquam cogeretur inire conubium. et uirginale usque quaque
 <lb source="#M"/><app><lem wit="#M #C">fedare</lem><rdg wit="#G">federa</rdg></app> propositum. Tedebat preterea uirginem beatissimam corporali de<pb source="#M" n="133v" break="no"/><lb source="#M" break="no"/>corari purpura⸵ que se nouerat <name>cristi</name> sanguine redemptam. dum a perfidis
 <lb source="#M"/>morte turpissima condempnaretur. Anulo fidei subarrata. aurum gem<lb source="#M" break="no"/>masque uelud <app><lem wit="#C #G">mercimonium contempnebat</lem><rdg wit="#M">mercennarium tempnebat</rdg></app> uilissimum. Hoc proposito filie
@@ -164,7 +172,10 @@ precibus. pietatis <app><lem wit="#M #G">uisce<lb source="#M" break="no"/>ra</le
 <lb source="#M"/>inuideat qui singulariter est malignus? Omnes namque conatur deicere⸵ qui
 <lb source="#M"/>primum hominem a paradisi gaudiis potuit propellere. Et quia <name><app><lem wit="#M #G">frideswide</lem><rdg wit="#C">frideswi<subst><del rend="expunct">th</del><add place="above">d</add></subst>e</rdg></app></name>
 <lb source="#M"/>animum nullius stimulo suggestionis potuit euertere⸵ ad dimicandum
-<lb source="#M"/>comminus corporeis eius oculis corporalem speciem exhibuit. <app><lem wit="#M #C">Elatusque</lem><rdg wit="#G">Flatusque</rdg></app>
+<lb source="#M"/>comminus
+<pb source="#G" n="226v"/>
+<cb source="#G" n="a"/>
+corporeis eius oculis corporalem speciem exhibuit. <app><lem wit="#M #C">Elatusque</lem><rdg wit="#G">Flatusque</rdg></app>
 <lb source="#M"/>in antique uesanie sue presumptionem. qua se altissimo fore similem
 <lb source="#M"/>promittebat⸵ <name>christum</name> se esse mentitur. Magnaque demonum constipatus ca<lb source="#M" break="no"/>terua⸵<!-- chk: point? --> angelorum lucis speciem mentientium⸵ his uirginem aggreditur.
 <lb source="#M"/><said>Veni dilecta mea ueni. quia tempus est ut percipias immarcessibilem
@@ -191,7 +202,9 @@ precibus. pietatis <app><lem wit="#M #G">uisce<lb source="#M" break="no"/>ra</le
 <lb source="#M"/>monacham ad thorum regium euocare. sed magis optimum prolem suscipere.
 <lb source="#M"/>et ad spem regni educare⸵ quam inertem et plenam desidia <app><lem wit="#M #G">ducere</lem><rdg wit="#C">deducere</rdg></app> uitam.
 <lb source="#M"/>His suggestionum stimulis rex furibundus <app><lem wit="#M #C">concitatus</lem><rdg wit="#G"/></app>⸵ quasi amens <app><lem wit="#M #G">prosilit</lem><rdg wit="#C" source="#Blair">prosiliit</rdg></app><!-- chk choice -->.
-<lb source="#M"/>nuntios accelerare <app><lem wit="#M #G"><!-- chk G -->precipit</lem><rdg wit="#C">precepit</rdg></app>. qui summa cum festinatione <name>frideswidam</name>
+<lb source="#M"/>nuntios accelerare <app><lem wit="#M #G"><!-- chk G -->precipit</lem><rdg wit="#C">precepit</rdg></app>. 
+<cb source="#G" n="b"/>
+qui summa cum festinatione <name>frideswidam</name>
 <lb source="#M"/>adducant. et <app><lem wit="#M #C">nolentem</lem><!-- chk C --><wit wit="#G">uolentem</wit></app> eque ut <app><lem wit="#M #C">uolentem</lem><rdg wit="#G">nolentem</rdg></app> properare <app><lem wit="#M #C">compellant</lem><rdg wit="#G">compellatur</rdg></app>. Nec mora ne<lb source="#M" break="no"/>fandissimi <app><lem wit="#C #G">regis nefandi</lem><rdg wit="#M"/></app> euolant nuntii⸵ et emenso celeriter multo terrarum spatio.
 <lb source="#M"/>ante conspectum <name><app><lem wit="#M #G">frideswide</lem><rdg wit="#C">frideswi<subst><del rend="expunct">th</del><add place="above">d</add></subst>e</rdg></app></name> assistentes. his eam aggrediuntur <app><lem wit="#M #G">compellare</lem><rdg wit="#C"/></app>
 <lb source="#M"/>sermonibus. <said>Rex</said> inquiunt <said><name>algarus</name> ad te o <name><app><lem wit="#M #G">frideswida</lem><rdg wit="#C">frideswi<subst><del rend="expunct">th</del><add place="above">d</add></subst>a</rdg></app></name> nos direxit. legati<lb source="#M" break="no"/>onis siquidem <app><lem wit="#M #C">tibi</lem><rdg wit="#G"/></app> pro future causa. Tu autem sapienti utere consilio⸵ et uo<lb source="#M" break="no"/>luntati regis <app><lem wit="#G">consenti</lem><rdg wit="#M #C">consentire</rdg></app>. honorem proponentis. Nam contradictio tua ex<lb source="#M" break="no"/>pers pene esse non poterit. Te sibi thori sociam rex uehementissime af<lb source="#M" break="no"/>fectat. et <app><lem wit="#C #G">matronali uinculo</lem><rdg wit="#M">matr<add place="inRas">imonio</add></rdg></app> coniungere⸵ et participem efficere regni.</said></p>
@@ -206,7 +219,10 @@ conubio<!-- con\n/ubio C--> sociare disposuissem⸵ nequaquam <app><lem wit="#M 
 <lb source="#M"/><app><lem wit="#M #C">Preterea</lem><rdg wit="#G">Propterea</rdg></app> nullis pollutionum contagiis <app><lem wit="#M #C">contaminari potest corpus</lem><rdg wit="#G">puto contaminari corpus</rdg></app>⸵ nisi ex consen<lb source="#M" break="no"/>su mentis. <app><lem wit="#M #C">Et</lem><rdg wit="#G">Ex</rdg></app> profecto quemadmodum corporis integritas deo grata non est⸵ quam
 <lb source="#M"/>mentis corruptela fedauit. ita prorsus si uiolentia impudicorum claustra signa<lb source="#M" break="no"/>culi pudicitie uexauerit. uoluntatis contradicente arbitrio. ab inspectore
 <lb source="#M"/>deo ad integritatis sue premium <app><lem wit="#G">mente</lem><rdg wit="#C">men<subst><del rend="erased">te</del><add place="above">s</add></subst></rdg><rdg wit="#M">uite</rdg></app><!-- dot in M is not punctuation? --> illibata dupplicato reducetur merito.</said></p>
-<p><lb source="#M"/><milestone unit="section" n="9"/><app><lem wit="#M #C">His</lem><rdg wit="#G">Hiis</rdg></app> iniquitatis ministri puelle responsis uelud solis meridiam aspectu hebe<lb source="#M" break="no"/>tati. <app><lem wit="#M #C">in</lem><rdg wit="#G"/></app> amentie tamen sue obstinatione perseuerantes. cum pre stupore tan<lb source="#M" break="no"/>te constantie eius quid amplius opponerent non haberent⸵ uim inferre pa<lb source="#M" break="no"/>rabant. At <name>frideswida</name> confugiens ad protectorem suum deum⸵ preces cum lacri<lb source="#M" break="no"/>mis
+<p><lb source="#M"/><milestone unit="section" n="9"/><app><lem wit="#M #C">His</lem><rdg wit="#G">Hiis</rdg></app> iniquitatis ministri puelle responsis uelud
+<pb source="#G" n="227r"/>
+<cb source="#G" n="a"/>
+solis meridiam aspectu hebe<lb source="#M" break="no"/>tati. <app><lem wit="#M #C">in</lem><rdg wit="#G"/></app> amentie tamen sue obstinatione perseuerantes. cum pre stupore tan<lb source="#M" break="no"/>te constantie eius quid amplius opponerent non haberent⸵ uim inferre pa<lb source="#M" break="no"/>rabant. At <name>frideswida</name> confugiens ad protectorem suum deum⸵ preces cum lacri<lb source="#M" break="no"/>mis
 <cb source="#C" n="b"/>
 in excelsum porrexit. clamans uoce magna atque dicens. <said><quote type="Bible">Exurge domine
 <lb source="#M"/>non confortetur homo. iudicentur gentes in conspectu tuo⸵ sciantque quoniam ho<lb source="#M" break="no"/>mines sunt⸵</quote><!-- Ps 9.19–20 (Vulg. 9.20–21) --> <quote type="Bible">Apprehende arma et scutum⸵ et exurge in adiutorium michi.
@@ -226,7 +242,9 @@ in excelsum porrexit. clamans uoce magna atque dicens. <said><quote type="Bible"
 <lb source="#M"/><app><lem wit="#M #C">seculorum secula</lem><!-- chk --><wit wit="#G">secula seculorum</wit></app>.</said></p> <p>Ad hanc <app><lem wit="#C #G">uocem beate uirgi<pb source="#C" n="171" break="no"/><cb source="#C" n="a" break="no"/>nis</lem><rdg wit="#M" ana="#ordinal">beate uirginis uocem</rdg></app> cum astantes respondissent <said>amen</said>⸵
 <lb source="#M"/>lumen redditur miseris. At illi <app><lem wit="#M">corde salubriter</lem><rdg wit="#C">salubiter corde</rdg><rdg wit="#G">salubriter</rdg></app> compuncti⸵ corruerunt
 <lb source="#M"/>ad pedes eius. ueniam commissi huius flagitantes. Quibus illa. <said>Non <app><lem wit="#M #G">hoc meis</lem><rdg wit="#C" ana="#ordinal">meis hoc</rdg></app></said>
-<lb source="#M"/>inquit <said>actum <app><lem wit="#M #C">esse meritis</lem><rdg wit="#G">meritis esse</rdg></app> estimetis. sed clementia saluatoris. et fide po<lb source="#M" break="no"/>puli ipsi supplicantis. Vos autem horum que passi estis <app><lem wit="#M #G">memores estote</lem><rdg wit="#C" ana="#ordinal">estote memores</rdg></app>. et 
+<lb source="#M"/>inquit <said>actum <app><lem wit="#M #C">esse meritis</lem><rdg wit="#G">meritis esse</rdg></app> estimetis. sed clementia saluatoris. et fide po<lb source="#M" break="no"/>puli ipsi 
+<cb source="#G" n="b"/>
+supplicantis. Vos autem horum que passi estis <app><lem wit="#M #G">memores estote</lem><rdg wit="#C" ana="#ordinal">estote memores</rdg></app>. et 
 <lb source="#M"/>ancillas <name>cristi</name> deinceps infestare nolite.</said>
 </p>
 </div>
@@ -251,7 +269,10 @@ paratam. et in ipsa ducem
 <lb source="#M"/><app><lem wit="#M #G">gratias agens</lem><rdg wit="#C">agens gratias</rdg></app> deo hylaris ab oratione surrexit. duasque de sororibus suis secum
 <lb source="#M"/>assumens⸵ ad <name><app><lem wit="#M #C">thamesim</lem><rdg wit="#G">thamensem</rdg></app></name> usque peruenit. et iuxta uerbum angeli nauiculam
 <lb source="#M"/>secus ripam repperit. Quam ingresse. uident iuuenem in parte sedentem. habi<lb source="#M" break="no"/>tu splendido uultuque uenustissimo<!-- cf. Mark 16.5 --> qui <app><lem wit="#M">eas</lem><rdg wit="#C #G">eos</rdg></app> dulci demulcens affatu⸵ in
-<lb source="#M"/><app><lem wit="#M">nauiculam</lem><rdg wit="#C #G">nauicula</rdg></app> collocauit. Mira res⸵ mirus impetus spiritus. Sub unius hore spa<lb source="#M" break="no"/>tio <app><lem wit="#M #G"/><rdg wit="#C"><add place="above">per</add></rdg></app> decem <app><lem wit="#M #C">miliaria</lem><rdg wit="#G">milia</rdg></app> transferuntur⸵ et sub uilla que <name>bentona</name> dicitur expo<lb source="#M" break="no"/>nuntur.</p> <p>Exposite uero⸵ nec nauem nec itineris ducem uspiam conspiciunt.
+<lb source="#M"/><app><lem wit="#M">nauiculam</lem><rdg wit="#C #G">nauicula</rdg></app> collocauit. Mira res⸵ mirus impetus spiritus. Sub unius hore spa<lb source="#M" break="no"/>tio <app><lem wit="#M #G"/><rdg wit="#C"><add place="above">per</add></rdg></app> decem <app><lem wit="#M #C">miliaria</lem><rdg wit="#G">milia</rdg></app> transferuntur⸵ et sub uilla
+<pb source="#G" n="227v"/>
+<cb source="#G" n="a"/>
+que <name>bentona</name> dicitur expo<lb source="#M" break="no"/>nuntur.</p> <p>Exposite uero⸵ nec nauem nec itineris ducem uspiam conspiciunt.
 <lb source="#M"/>Inuentam ilico secus <app><lem wit="#C #G">uillam</lem><rdg wit="#M">uilla</rdg></app> semitam pergunt. et <app><lem wit="#M #G">siluam</lem><rdg wit="#C">sil<del rend="erased">l</del>uam</rdg></app> non longe ab ea dis<lb source="#M" break="no"/>tantem ingrediuntur. Sequentes autem semitam in profundum <app><lem wit="#M #C">nemoris</lem><rdg wit="#G"/></app> se pro<lb source="#M" break="no"/>tendentem⸵ tandem <app><lem wit="#M #G">mapale</lem><rdg wit="#C">ma<subst><del rend="altered">p</del><add place="overstrike">g</add></subst>ale</rdg></app> conspiciunt ad porcorum tutamen <app><lem wit="#M #C"/><rdg wit="#G"><add place="left"><note place="margin">casa pastoralis</note></add></rdg></app> contra ae<lb source="#M" break="no"/>ris intemperiem constructum. sed <app><lem wit="#M #G">multo iam</lem><rdg wit="#C"><seg xml:id="Cim1">iam</seg> <seg xml:id="Cim2">multo</seg><add place="inline"><listTranspose><transpose><ptr target="#Cim2"/><ptr target="#Cim1"/></transpose></listTranspose></add></rdg></app> tempore ab incolis derelictum⸵
 <lb source="#M"/>adeo ut hedera succrescente ex omni parte contectum. <app><lem wit="#M #G">occultato</lem><rdg wit="#C">occulto</rdg></app> aditu
 <lb source="#M"/>ingredi uolentibus negare uideretur introitum. Quod uirgo cum suis ingres<lb source="#M" break="no"/>sa sodalibus primum signo crucis muniuit. ac deinde qualiter ibidem deo dis<lb source="#M" break="no"/>ponente manerent. prout sibi <app><lem wit="#M #G">oportunum</lem><rdg wit="#C"/></app> uidebatur statuit.
@@ -275,7 +296,9 @@ quo se uesanie sue propellebat im<lb source="#M" break="no"/>petus⸵ luminibus 
 <lb source="#M"/>caruit. Ob <app><lem wit="#C #G">huius</lem><rdg wit="#M">cuius</rdg></app><!-- chk --> equidem tyranni <app><lem wit="#M #G">crudelissimi</lem><rdg wit="#C"/></app> iustissimum supplicium. inna<lb source="#M" break="no"/>tus est horror regibus <name>anglie</name>⸵ ut <app><lem wit="#C #G">ne</lem><rdg wit="#M">nec</rdg></app> unus profecto successorum eius ciuitatem
 <lb source="#M"/><name><app><lem wit="#G">oxinefordie</lem><rdg wit="#M">oxenefordiam</rdg><rdg wit="#C">oxonie</rdg></app></name> <app><lem wit="#C">presumat</lem><rdg wit="#M"><add place="above">pre</add>sumat</rdg><rdg wit="#G">presumant</rdg></app> intrare.</p> <p><name>Frideswida</name> uero iam quasi inheremum
 <lb source="#M"/>promota⸵ soli deo uacare studuit.<!-- + high dot --> solum <name>cristum</name> pre <app><lem wit="#M #G">oculis</lem><rdg wit="#C">o<del rend="erased">c</del>culis</rdg></app>⸵ solum in men<lb source="#M" break="no"/>te. solum in animo semper habebat. Non diebus aut noctibus uacabat de
-<lb source="#M"/>eo loqui. ipsum uenerari⸵ et assiduis interpellare precibus. Mansit au<lb source="#M" break="no"/>tem tribus ferme annis in prefati nemoris solitudine⸵ sed non incolis
+<lb source="#M"/>eo loqui. ipsum uenerari⸵ et assiduis interpellare precibus.
+<cb source="#G" n="b"/>
+Mansit au<lb source="#M" break="no"/>tem tribus ferme annis in prefati nemoris solitudine⸵ sed non incolis
 <lb source="#M"/>ignota. Neque enim poterat lucerna dei diutius abscondi⸵ cuius odor luxque
 <lb source="#M"/>uirtutum usquequaque diffundebatur.
 </p>
@@ -297,7 +320,10 @@ quo se uesanie sue propellebat im<lb source="#M" break="no"/>petus⸵ luminibus 
 <lb source="#M"/>ablutionem potuit. excecate puelle uisum restituere⸵ potest rediuiuos
 <pb source="#C" n="173"/>
 <cb source="#C" n="a"/>
-in re<lb source="#M" break="no"/>surrectione <app><lem wit="#C #G">capillos</lem><rdg wit="#M"/></app> capiti uel cetero ut libet corpori apponere. Stupendum <app><lem wit="#C #G">sane</lem><rdg wit="#M">ualde</rdg></app><!-- chk choice --> 
+in re<lb source="#M" break="no"/>surrectione <app><lem wit="#C #G">capillos</lem><rdg wit="#M"/></app>
+<pb source="#G" n="228r"/>
+<cb source="#G" n="a"/>
+capiti uel cetero ut libet corpori apponere. Stupendum <app><lem wit="#C #G">sane</lem><rdg wit="#M">ualde</rdg></app><!-- chk choice --> 
 <lb source="#M"/>miraculum⸵ stupenda uirtus. <quote type="Bible">Melior est plane acquisitio talis <app><lem wit="#M #G">auro et argen<lb source="#M" break="no"/>to</lem><rdg wit="#C" source="#Blair" ana="#ordinal">argento et auro</rdg></app></quote>⸵<!-- Prov. 3.14; Blair goes with 'argento et auro' based on Weber text but there are examples of other texts with this word order and I find it more likely that C changed it --> ac lapidibus quantumuis pretiosis. Hinc quoque exclamare libet spei ple<lb source="#M" break="no"/>na dictante letitia. <quote type="Bible">O domine dominus noster. quam admirabile est nomen tuum.</quote><!-- Ps 8.1 (Vulg. 8.2), Ps 8.9 (Vulg. 8.10) --> in omnibus
 <lb source="#M"/>operibus tuis. Reuertentes autem cum gaudio⸵ factum hoc diffamauerunt per
 <lb source="#M"/>omnia confinia sua.</p>
@@ -326,7 +352,9 @@ consitus⸵ qui pro <app><lem wit="#M #G">mul<lb source="#M" break="no"/>titudin
 <p><!-- this is a good passage to demonstrate Robert's authorship: compare the passage in Speculum fidei questioning Lombard -->
 <lb source="#M"/><milestone unit="section" n="16"/>Quid est quod conaris deo dilecta uirgo. quid
 <lb source="#M"/>inquam? <app><lem wit="#M #G">Latebras queris?</lem><rdg wit="#C"/></app> At latere diu non preuales. Dominus in
-<lb source="#M"/>euangelio dicit. <quote type="Bible">Non potest ciuitas abscondi. supra montem posita.</quote><!-- Matt. 5.14 --> Tu pror<lb source="#M" break="no"/>sus <app><lem wit="#M #G">ciuitas es</lem><rdg wit="#C">es ciuitas</rdg></app>. regis omnium <name>cristi</name>. turribus uirtutum et propugnaculis operum bo<lb source="#M" break="no"/>norum constructa⸵ et supra montem illum fundata. qui <quote type="Bible">lapis abscisus de mon<lb source="#M" break="no"/>te sine manibus</quote>⸵<!-- Dan. 2.34 --> uniuersum impleuit orbem. Sed tu te grandi premis hu<lb source="#M" break="no"/>militate. <!-- new sentence C -->et <quote type="Bible">qui se humiliauerit</quote> inquit <app><lem wit="#C #G">idem</lem><rdg wit="#M"/></app> dominus⸵ <quote type="Bible">exaltabitur.</quote><!-- Matt. 23.12 --> Esto. Nequaquam
+<lb source="#M"/>euangelio dicit. <quote type="Bible">Non potest ciuitas abscondi. supra montem posita.</quote><!-- Matt. 5.14 --> 
+<cb source="#G" n="b"/>
+Tu pror<lb source="#M" break="no"/>sus <app><lem wit="#M #G">ciuitas es</lem><rdg wit="#C">es ciuitas</rdg></app>. regis omnium <name>cristi</name>. turribus uirtutum et propugnaculis operum bo<lb source="#M" break="no"/>norum constructa⸵ et supra montem illum fundata. qui <quote type="Bible">lapis abscisus de mon<lb source="#M" break="no"/>te sine manibus</quote>⸵<!-- Dan. 2.34 --> uniuersum impleuit orbem. Sed tu te grandi premis hu<lb source="#M" break="no"/>militate. <!-- new sentence C -->et <quote type="Bible">qui se humiliauerit</quote> inquit <app><lem wit="#C #G">idem</lem><rdg wit="#M"/></app> dominus⸵ <quote type="Bible">exaltabitur.</quote><!-- Matt. 23.12 --> Esto. Nequaquam
 <lb source="#M"/>hominum te perquiret <app><lem wit="#M #G">curiositas</lem><rdg wit="#C">cur<add place="above">i</add>ositas</rdg></app>. quia mundo crucifixa es⸵ sed non ob hoc ab 
 <lb source="#M"/><app><lem wit="#M #G">inquisitione</lem><rdg wit="#C"><add place="above">in</add>quisitione</rdg></app> tui desistet <app><lem wit="#M #G">miseranda</lem><rdg wit="#C">merenda</rdg></app> inualidorum <app><lem wit="#M #C">et</lem><rdg wit="#G">etiam</rdg></app> anxia necessitas. Ecce
 <lb source="#M"/>prope te infortunatus iuuenis in uilla que dicitur <name>seuecordia</name>. dum securi die dominica
@@ -349,7 +377,10 @@ adherens. adeo incenditur⸵ ut pre
 <lb source="#M"/>proprium</lem><rdg wit="#C">obprobium</rdg></app> delictum tormenta patientis. Nouimus enim et ualde nouimus. quoniam si uolue<pb source="#M" n="137v"/><lb source="#M" break="no"/>ris⸵ et illius noxa tuis relaxabitur precibus. et salus pristina redonabitur.</said></p> <p>Ad hanc uocem tam luctuosam. pre tam grandi miseria eiulantem. quid <app><lem wit="#M #C">facies</lem><rdg wit="#G">facis</rdg></app> uirgo? Nun<lb source="#M" break="no"/>quid <app><lem wit="#M #C">redibunt</lem><rdg wit="#G">redibit</rdg></app> miseri. misericordia 
 <cb source="#C" n="b"/>
 frustrati? Nunquid non erogabit pietas. quod
-<lb source="#M"/>denegare parabat latendi uoluntas? Ecce infelices parentes precibus in<lb source="#M" break="no"/>stant. et iuxta uocem saluatoris querentes pulsant.<!-- cf. Matt. 7.7–8 --> ut intercessione tua noxa
+<lb source="#M"/>denegare
+<pb source="#G" n="228v"/>
+<cb source="#G" n="a"/>
+parabat latendi uoluntas? Ecce infelices parentes precibus in<lb source="#M" break="no"/>stant. et iuxta uocem saluatoris querentes pulsant.<!-- cf. Matt. 7.7–8 --> ut intercessione tua noxa
 <lb source="#M"/><app><lem wit="#M #C"/><rdg wit="#G"><add place="inline">a</add></rdg></app> filio suo dimittatur⸵ et salutis remedium conferatur.</p> <p>Tandem igitur pietate
 <lb source="#M"/>uicta <app><lem wit="#C">procidit</lem><rdg wit="#M #G">procedit</rdg></app><!-- chk choice --> <name>frideswida</name>. et lacrimis ita <app><lem wit="#M">precatur obortis</lem><rdg wit="#G">precatur abortis</rdg><rdg wit="#C">precabatur abatis</rdg></app>. <said>Adonay domine deus
 <lb source="#M"/>pater omnipotens magne et mirabilis. qui per legis latorem<!-- two words M/C --> <name>moysen</name> populum tuum
@@ -372,6 +403,7 @@ demonum insolentie traderentur. inge<lb source="#M" break="no"/>muit. et ab alto
 <lb source="#M"/>crucis aduersus demonem depingens signum. Ac deinde. <said>Adiuro <ptr xml:id="Cte"/>te</said> <app from="#Cte"><lem wit="#M #G">inquit</lem><!-- chk rendering --><rdg wit="#C">inquid te</rdg></app>
 <lb source="#M"/><said><name>sathana</name> per nomen magnum filii dei uiui. et domini nostri <name>iesu <name>cristi</name></name> recede ab hoc ho<lb source="#M" break="no"/>mine ad ipsius imaginem formato. et abhinc amplius ne presumas uexare il<lb source="#M" break="no"/>lum.</said></p> <p>Ad hanc uocem uirginis quasi letali percussus uulnere corruit homo.
 <lb source="#M"/>et auctore mortis eiecto˷ quo male fortis fuerat⸵ factus est uelud mortuus.
+<cb source="#G" n="b"/>
 <lb source="#M"/>ut qualis fuerit in anima˷ tali obsessus ab hospite⸵ corporis <app><lem wit="#C">h<subst><del rend="altered">e</del><add place="overstrike">o</add></subst>c indicaretur specie<del rend="erased">s</del></lem><rdg wit="#M">hec indicaretur
 <lb source="#M"/>species</rdg><rdg wit="#G">hec indicaret species</rdg></app>. Quod cernens urigo accessit⸵ et manu iniecta˷ <said>surge</said> inquit <said>homo
 <lb source="#M"/>in nomine <name>iesu <name>cristi</name> <name>nazareni</name></name>.</said></p> <p>Qui statim surrexit⸵ mentis et corporis inco<lb source="#M" break="no"/>lumitati restitutus. Nec ille reticuit factum⸵ sed quocumque procedebat in audi<lb source="#M" break="no"/>tu omnium predicabat. quam potenter curatus fuerit per merita deo dilecte <name>frideswide</name>.
@@ -393,7 +425,10 @@ esse arbitror. quam pro magnitudine
 <lb source="#M"/>toto deformatus corpore. ut de forma hominis nichil fere inesse uideretur. preter
 <lb source="#M"/>exteriora liniamenta uelut in trunco ad formam humani corporis desecto.
 <lb source="#M"/>antequam artifex menbrorum ac sensuum. conuenientiam distinctam imprimat
-<lb source="#M"/>arte magistra. Sic enim ulcera. sic <app><lem wit="#M #G"/><rdg wit="#C"><del rend="erased">et</del></rdg></app> tumores sic iniquus color cuncta <app><lem wit="#M #G">obdu<lb source="#M" break="no"/>xerant</lem><rdg>obdu<subst><del rend="altered">r</del><add place="inline">x</add></subst><add place="above">e</add>rant</rdg></app>⸵ ut monstrum potius putaretur quam homo. Iste profecto non modo <app><lem wit="#M #G">miserabi<lb source="#M" break="no"/>lis</lem><rdg wit="#C">miserabi<add place="above">li</add>s</rdg></app> uerum extra modum horribilis. cum appropinquaret ad sanctam. quanta potuit uo<lb source="#M" break="no"/>ce horribiliter quidem <app><lem wit="#M #G">rauca</lem><rdg wit="#C"><add place="above">et</add> rauc<subst><del rend="altered">a</del><add place="overstrike">e</add></subst></rdg></app><!-- chk choice --> emisit sonitum satis confusum. uerba tamen expri<lb source="#M" break="no"/>mentem⸵ dicens. <said>Adiuro te uirgo <name>frideswida</name> per deum omnipotentem ut des
+<lb source="#M"/>arte magistra. Sic enim ulcera. sic <app><lem wit="#M #G"/><rdg wit="#C"><del rend="erased">et</del></rdg></app> tumores sic iniquus color cuncta <app><lem wit="#M #G">obdu<lb source="#M" break="no"/>xerant</lem><rdg>obdu<subst><del rend="altered">r</del><add place="inline">x</add></subst><add place="above">e</add>rant</rdg></app>⸵ ut monstrum potius putaretur quam homo. Iste profecto non modo <app><lem wit="#M #G">miserabi<lb source="#M" break="no"/>lis</lem><rdg wit="#C">miserabi<add place="above">li</add>s</rdg></app> uerum extra modum horribilis. cum appropinquaret ad sanctam. quanta potuit uo<lb source="#M" break="no"/>ce horribiliter quidem 
+<pb source="#G" n="229r"/>
+<cb source="#G" n="a"/>
+<app><lem wit="#M #G">rauca</lem><rdg wit="#C"><add place="above">et</add> rauc<subst><del rend="altered">a</del><add place="overstrike">e</add></subst></rdg></app><!-- chk choice --> emisit sonitum satis confusum. uerba tamen expri<lb source="#M" break="no"/>mentem⸵ dicens. <said>Adiuro te uirgo <name>frideswida</name> per deum omnipotentem ut des
 <lb source="#M"/>michi osculum in nomine <name>iesu <name>cristi</name></name> filii eius unigeniti.</said></p> <p>O durum omnino sermonem. O du<lb source="#M" break="no"/>ra sane postulatio. Petis iuuenis leprose uirginem <app><lem wit="#M #G"/><rdg wit="#C"><add place="margin">teneram</add></rdg></app> natura <app><lem wit="#M #C">uti</lem><rdg wit="#G"/></app> <app><lem wit="#C #G">regiam</lem><rdg wit="#M">regia<del rend="erased">m</del></rdg></app>. sed <app><lem wit="#M #G">quia</lem><rdg wit="#C">qu<add place="above">i</add>a</rdg></app>
 <lb source="#M"/><name>cristi</name> ancillam non moribus delicatam. tibi dare osculum. in quem mares <app><lem wit="#M #C">animo</lem><rdg wit="#G">omnino</rdg></app> 
 <lb source="#M"/>prorsus duriores˷ figere abhrorrent obtutum? Plane postulatio 
@@ -413,7 +448,9 @@ tua <app><lem wit="#M #C">ni</lem><rdg wit="#G">nisi</rdg></app> fides
 <lb source="#M"/>cum humili deuotione puelle sacratissime deosculatio contulit. Ore et<lb source="#M" break="no"/>enim uirginis os leprosi tangitur. et continuo toto corpore mundatur. Cutis
 <lb source="#M"/>aspera <app><lem wit="#M #C">ad</lem><rdg wit="#G">ab</rdg></app> squamarum. <app><lem wit="#M #C">modum</lem><rdg wit="#G">nodis</rdg></app> soluitur. et uelud exuuie colubrine deponitur.
 <lb source="#M"/>ac statim fit caro ipsius sicut caro pueri paruuli. Quis tanto presens non
-<lb source="#M"/>expauit miraculo? Quis a laude <name>cristi</name> os continere potuit? Repletur leti<lb source="#M" break="no"/>cia ciuitas. Exultant omnes. congratulantur uniuersi⸵ et 
+<lb source="#M"/>expauit miraculo? Quis a laude <name>cristi</name> os continere potuit? Repletur leti<lb source="#M" break="no"/>cia ciuitas. Exultant omnes. 
+<cb source="#G" n="b"/>
+congratulantur uniuersi⸵ et 
 <cb source="#C" n="b"/>
 in tante patro<lb source="#M" break="no"/>ne aduentu se nequaquam pre gaudio capiunt. Sed non <app><lem wit="#M #C">his</lem><rdg wit="#G" ana="#orthographical">hiis</rdg></app> uirgo ex<lb source="#M" break="no"/>tollitur. immo in dies quanto amplioribus uirtutibus augebatur. tanto semet<lb source="#M" break="no"/>ipsam et corpore et spiritu <app><lem wit="#M #G">castigabat</lem><rdg wit="#C">castiga<subst><del rend="altered">li</del><add place="inline">b</add></subst>a<add place="above">t</add></rdg></app> humilius.</p>
 </div>
@@ -436,7 +473,10 @@ gallicinium
 <lb source="#M"/>de presenti seculo migrabo. nolo pro me <app><lem wit="#M #G">quemquam</lem><rdg wit="#C">qu<subst><del rend="erased">a</del><add place="inRas">e</add></subst>mquam</rdg></app> in tanta et tam illustri feria 
 <lb source="#M"/><app><lem wit="#M #G">fodiendo fatigari</lem><rdg wit="#C"><seg xml:id="Cff1">fatigari</seg> <seg xml:id="Cff2">fodiendo</seg><add place="inline"><listTranspose><transpose><ptr target="#Cff2"/><ptr target="#Cff1"/></transpose></listTranspose></add></rdg></app>.</said></p> <p><app><lem wit="#M #C">Hec</lem><rdg wit="#G">Hoc</rdg></app> dixit. et <app><lem wit="#M #C">sibi eucharistiam afferri precepit</lem><rdg wit="#G" ana="#ordinal">eucharistiam sibi precepit afferri</rdg></app>. Quam
 <lb source="#M"/>cum gratiarum actione suscipiens⸵ benedicebat dominum.</p> <p><milestone unit="section" n="21"/>Et<!-- erasure add. C --> intentis ad superna
-<lb source="#M"/>luminibus⸵ aspexit inde uenientes ad se uirgines. quas in ueneratione ma<lb source="#M" break="no"/>xima semper habebat⸵ quoad inter homines in terris degebat. Et adueni<lb source="#M" break="no"/>entibus <app><lem wit="#M #G">suppliciter</lem><rdg wit="#C">simpliciter</rdg></app> inclinans⸵ letabunda uoce proclamabat. <said>Bene <app><lem wit="#M #C">ueni<lb source="#M" break="no"/>tis</lem><rdg wit="#G">ueniatis</rdg></app> uirgines beate. <quote type="Bible">O quam <app><lem wit="#M #G">magna</lem><rdg wit="#C"><add place="above">magna</add></rdg></app> multitudo dulcedinis tue domine. quam ab<lb source="#M" break="no"/>scondisti timentibus te⸵ perfecisti autem eis qui sperant in te.</quote><!-- Ps. 31.19 (Vulg. 30.20) --> <quote type="Bible">Quis non timebit
+<lb source="#M"/>luminibus⸵ aspexit inde uenientes ad se uirgines. quas in ueneratione ma<lb source="#M" break="no"/>xima semper
+<pb source="#G" n="229v"/>
+<cb source="#G" n="a"/>
+habebat⸵ quoad inter homines in terris degebat. Et adueni<lb source="#M" break="no"/>entibus <app><lem wit="#M #G">suppliciter</lem><rdg wit="#C">simpliciter</rdg></app> inclinans⸵ letabunda uoce proclamabat. <said>Bene <app><lem wit="#M #C">ueni<lb source="#M" break="no"/>tis</lem><rdg wit="#G">ueniatis</rdg></app> uirgines beate. <quote type="Bible">O quam <app><lem wit="#M #G">magna</lem><rdg wit="#C"><add place="above">magna</add></rdg></app> multitudo dulcedinis tue domine. quam ab<lb source="#M" break="no"/>scondisti timentibus te⸵ perfecisti autem eis qui sperant in te.</quote><!-- Ps. 31.19 (Vulg. 30.20) --> <quote type="Bible">Quis non timebit
 <lb source="#M"/>te domine et magnificabit nomen tuum⸵<!-- should perhaps be a question mark --> quia tu solus pius.</quote><!-- Rev. 15.4 --></said></p> <p>Ne ancilla tua ad
 <lb source="#M"/>te migratura. <surplus source="#Blair">ad</surplus><!-- chk --> <name>sathane</name> paueret occursum. qui etiam uictus et confusus
 <lb source="#M"/>uictoribus uictricibusque a castris <app><lem wit="#C">suis</lem><rdg wit="#M #G">tuis</rdg></app> ad te redeuntibus occursare. et fallatie
@@ -463,7 +503,9 @@ eius. lux celitus emissa <app><lem wit="#M #G">habitaculum</lem><rdg wit="#C">ha
 <lb source="#M"/>etiam lingue destitutus officio⸵ uir admodum diues. famulorum ma<lb source="#M" break="no"/>nibus defertur ad feretrum⸵ super quod repositum erat sanctissime corpus uirginis.
 <lb source="#M"/>Quod cum tetigisset⸵ confestim sic solidatus est⸵ ut exiliens in laudem dei. et sancte
 <lb source="#M"/><name>frideswide</name>. magno cum clamore prorumperet.</p> <p><milestone unit="section" n="23"/>Cumque <app><lem wit="#M #G">corpus illud castissimum</lem><rdg wit="#C" ana="#ordinal">illud castissimum corpus</rdg></app>
-<lb source="#M"/>cum magna frequentia utriusque ordinis et sexus deferretur ad sepulchrum⸵ acci<lb source="#M" break="no"/>dit ut quidam ab umbilico deorsum uitio<!-- point in M with a giant X through it --> neruorum ita constrictus. ut offi<lb source="#M" break="no"/>cio quoque gressuum destitueretur⸵ scannulis nitens quia pedibus non potuit. et
+<lb source="#M"/>cum 
+<cb source="#G" n="b"/>
+magna frequentia utriusque ordinis et sexus deferretur ad sepulchrum⸵ acci<lb source="#M" break="no"/>dit ut quidam ab umbilico deorsum uitio<!-- point in M with a giant X through it --> neruorum ita constrictus. ut offi<lb source="#M" break="no"/>cio quoque gressuum destitueretur⸵ scannulis nitens quia pedibus non potuit. et
 <lb source="#M"/><app><lem wit="#M #C">manuum</lem><rdg wit="#G">manum</rdg></app> iuuamine miserabile trahens corpus. exequias uirginis subseque<lb source="#M" break="no"/>retur. Sed quoniam non potuit feretrum preciosissimi oneris aut gradiendo as<lb source="#M" break="no"/>sequi. aut <app><lem wit="#M #C">ad illam cum in</lem><rdg wit="#G">cum ad illam</rdg></app> ecclesiam peruentum fuit pre constipatione intrare
 <lb source="#M"/>populi⸵ fecit quod potuit. magnis uocibus tanquam ad uiuam. ad iam defunc<lb source="#M" break="no"/>tam proclamauit dicens. <said>O inestimabilis uirgo pietatis. o sponsa fon<lb source="#M" break="no"/>tis misericordie quamdiu est <app><lem wit="#M #C">ex quo</lem><rdg wit="#G">ex exquo</rdg></app> desideraui uenire ad te⸵ sed me miserum
 <lb source="#M"/>cum uitio corporis uitium quoque <app><lem wit="#M #G">impediuit</lem><rdg wit="#C">impedi<add place="above">ui</add>t</rdg></app> male sane mentis. Peccatis et<lb source="#M" break="no"/>enim meis id promerentibus⸵ 
@@ -478,7 +520,10 @@ nec <app><lem wit="#C #G">te michi uiuam</lem><rdg wit="#M" ana="#ordinal">uiuam
 <lb source="#M"/><app><lem wit="#G">celebrabantur</lem><rdg wit="#M">celebrantur</rdg></app> exequie⸵ faciebat deus mirabilia.</p> <p><milestone unit="section" n="24"/>Sepulta est beata uirgo
 <lb source="#M"/>in basilica intemerate semper uirginis dei genitricis <name>marie</name> in parte
 <lb source="#M"/>australi. prope ripam fluminis <name><app><lem wit="#M #C">thamesis</lem><rdg wit="#G">thamensis</rdg></app></name>. Sic enim se tunc habebat situs
-<lb source="#M"/>basilice usque ad tempus regis <name>athelredi</name>. qui <app><lem wit="#G">combustis</lem><rdg wit="#M">combussis</rdg></app> in ea <name>dacis</name> qui con<lb source="#M" break="no"/>fugerant illuc⸵ basilice ambitum sicut ante <app><lem wit="#G">uouerat</lem><rdg wit="#M">nouerat</rdg></app><!-- chk: Blair cites Wigram note 23, i, 9 --> ampliauit.
+<lb source="#M"/>basilice usque ad tempus regis <name>athelredi</name>. qui <app><lem wit="#G">combustis</lem><rdg wit="#M">combussis</rdg></app> in ea <name>dacis</name> qui con<lb source="#M" break="no"/>fugerant illuc⸵ basilice ambitum sicut ante 
+<pb source="#G" n="230r"/>
+<cb source="#G" n="a"/>
+<app><lem wit="#G">uouerat</lem><rdg wit="#M">nouerat</rdg></app><!-- chk: Blair cites Wigram note 23, i, 9 --> ampliauit.
 <lb source="#M"/>Hinc nimirum actum est⸵ quia sepulcrum quod ante fuerat in parte. me<lb source="#M" break="no"/>dium ex tunc esse contigit. Inibi <app><lem wit="#M"/><rdg wit="#G">quia</rdg></app> quippe tot tantaque per illius merita
 <lb source="#M"/>facta sunt mirabilia. ut nec hominum ea fides capere⸵ nec scripto<lb source="#M" break="no"/>rum posset colligere sollicitudo prestante domino nostro <name>iesu <name>cristo</name></name>. cui 
 <lb source="#M"/>est honor et imperium in secula seculorum amen.
