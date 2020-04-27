@@ -3,6 +3,9 @@ title: The Life of St Frideswide the Virgin
 author: Robert of Cricklade
 ---
 
+<!-- chk consistent translation for habitaculum, naviculum
+cap of Cross -->
+
 - The father and mother of St Frideswide; her birth and instruction.
 
 - The death of her mother; her advancement into a holy manner of life and the construction of her monastery by her father; how she became a nun; and the death of her father.
@@ -19,7 +22,7 @@ author: Robert of Cricklade
 
 - How she lived in the settlement called Binsey, and obtained a well by prayer.
 
-- How she loosened a man's hand from an axe's haft by her prayers.
+- How she loosed a man's hand from an axe's haft by her prayers.
 
 - The fisherman freed from a demon.
 
@@ -99,11 +102,11 @@ But Frideswide, fleeing for refuge to God her defender, poured forth prayers wit
 
 Behold the *wicked men*^[Gen. 13.13] who do not wish to hear the voice of your handmaid, that they may do good. Having first lost their eyesight, they were forced unwillingly to cease from their wrongful deeds. They learned by experience what they had failed to pay attention to when they were taught salvation.
 
-The city was filled with the miracle's strength without delay. They gathered from everywhere. Everyone wondered and was afraid. Falling forward at the virgin's feet, they asked humbly for compassion on the blind men, that she would not consider the crimes of the foolish and therefore most miserable men, but be favourably inclined to think it fit to pray for them -- and that the pious woman might restore the light by her prayer where the wretches had been deprived of it by their own obstinacy.
+The city was filled with the miracle's strength without delay. They gathered from everywhere. Everyone wondered and was afraid. Falling forward at the virgin's feet, they asked humbly for compassion on the blind men, that she would not consider the crimes of the foolish and therefore most miserable men, but be favourably inclined to think it fit to pray for them -- and that the pious woman might restore their sight by her prayer where the wretches had been deprived of them by their own obstinacy.
 
-[10] But the vessel of devoutness did not endure long torturing of the wicked men, or the people's sobbing in their request. She was turned to prayers; she entreated God on her knees. 'Invisible and unchangeable God', she said, 'the creator of all creatures, at whose will things are made that are not, at whose wish all things remain, who shaped humanity anew, sinning by their own guilt, to life: restore the light to these most wretched men, what this people may know that you are *full of compassion and mercy, long-suffering and of great goodness and truth,*^[Ps. 86.16 (Vulg. 85.15)] *rewarding each according to his work,*^[Ps. 62.12 (Vulg. 61.13)] who lives and reigns through the ages of ages.'
+[10] But the vessel of devoutness did not endure long torturing of the wicked men, or the people's sobbing in their request. She was turned to prayers; she entreated God on her knees. 'Invisible and unchangeable God', she said, 'the creator of all creatures, at whose will things are made that are not, at whose wish all things remain, who shaped humanity anew, sinning by their own guilt, to life: restore these most wretched men's sight, what this people may know that you are *full of compassion and mercy, long-suffering and of great goodness and truth,*^[Ps. 86.16 (Vulg. 85.15)] *rewarding each according to his work,*^[Ps. 62.12 (Vulg. 61.13)] who lives and reigns through the ages of ages.'
 
-At the blessed virgin's voice, when everyone standing round answered, 'Amen', the light was restored to the wretches. But they threw themselves down at her feet, profitably pricked at heart, demanding her forgiveness of their crime.
+At the blessed virgin's voice, when everyone standing round answered, 'Amen', the wretches' sight was restored. But they threw themselves down at her feet, profitably pricked at heart, demanding her forgiveness of their crime.
 
 She said to them, 'Do not suppose that this happened by my virtues, but by the Saviour's mercy, and by the faith of the people themselves praying. Remember these things that you have endured, and from now on, do not trouble the handmaids of Christ.
 
@@ -123,50 +126,88 @@ The angel said to her, 'Do not fear, Frideswide: the Lord Jesus Christ will guar
 
 [12] Frideswide gave thanks to God and arose happy from prayer. Taking two of her sisters with her, she reached the Thames, and according to the angel's word, found a little boat alongside the river. They stepped into it and saw a youth sitting to one side, with shining garb and a most pleasing countenance. He soothed them with his sweet speech and settled them in the little boat. A miraculous thing: a miraculous onrush of power. In the space of an hour they were carried across ten miles, and they put ashore close to the village called Bampton.
 
-But when they put ashore, they saw neither the boat nor their journey's guide anywhere.
+But when they put ashore, they saw neither the boat nor their journey's guide anywhere. They made their way towards a path that they found at once alongside the village and went into a wood not far apart from it. The path stretched out into the the depths of the forest, and they followed it. Finally, they saw a shed built to protect pigs against bad weather. Its inhabitants had now abandoned it for a long time, to such an extent that ivy had grown up and covered it from every side. With a hidden approach, its entry seemed to refuse anyone wishing to go in. The virgin entered with her companions. She first fortified it with the sign of the cross. Then she decided that they would remain there, in such a manner as God had arranged it, given that it seemed to suit their needs.
 
 ## The blinding of King Algar, and why kings do not go into Oxford
 
+[13] Meanwhile, the wicked king came to Oxford, attempting to learn where Frideswide had fled from the inhabitants by threats and entreaties and offering rewards. But because he was not to know God's secrets, just as this act was in none of their counsel, in this way their speech could not be uncovered. For this reason, the king was moved to unendurable rage, as if he were demented. Gazing frightfully on the city, he swore to destroy it.
 
+And when he was approaching the gate that opens to the north, going where the onslaught of his madness drove him, he suddenly lost his sight. He learnt that there is nothing human wickedness contrives that stands up against divine power. The foolish man became frightened, therefore, at the sudden vengeance of divine power in him, and he did not cease from the determination of his wickedness. A heart of Pharoah returned home, seeing the plagues of Egypt and persisting in the blindness he earned. He went without the comfort of his lost sight all the days of his life, just as he did not cease from the obstinacy of his presumptuous conduct. Indeed, on account of the most just punishment of the cruellest tyrant, there is an inborn dread in the kings of England, so that not even one of his successors presumes to enter the city of Oxford.
+
+But Frideswide, now elevated as if into the wilderness, concentrated on allowing time for God alone, always holding Christ only before her eyes, in her mind, and in her soul. Neither by day nor night did she cease to speak of him, to worship him, and to call on him in persistent prayers. She remained in the isolation of the forest mentioned earlier for nearly three years, but not unknown to the inhabitants. For the lamp of God could not hide for long: the fragrance and light of her virtues was pouring forth everywhere.
 
 ## The girl healed through a drop of liquid falling from Frideswide's hands
 
+[14] In Bampton, mentioned earlier, there was a girl from a noble family who remained struck with the  affliction of blindness by the ancient enemy, to her own burden and her parents' sorrow. But divine compassion did not endure the obstinacy of the mocking<!-- chk --> in the woman's loss any longer. Someone stood by her in a dream as she slept, saying, 'Go into the wood to the virgins' dwelling-place, and anoint your eyes with a drop of water flowing from the palms of blessed Frideswide while she washes her hands. You will receive your sight.'
 
+The woman awoke and became very glad when the day first revealed itself to the earth. She did not delay to tell her parents what she had seen in her dreams. They congratulated their daughter, as if she had already received her sight. They set out on a journey at once. After walking swiftly, they arrived at the virgins' house. Standing at the door and knocking, they asked eagerly that they might deserve to be present when Frideswide washed her hands. This was not denied to those asking, although she had hardly ever allowed any of her sisters to wash in the water flowing from her hands. Even so, she did not deny those to be present, as though she were not in hiding, because they had asked so earnestly from outside. And so, the girl eagerly snatched the first falling drop of water that she could. When she had washed her eyes with it, she quickly recovered her vision.
+
+O how virtuous a virgin in her hands and clean heart! From her hands, what was thought unclean benefitted at the help of such well-being.<!-- chk: i.e. referring to hair --> Let them cease, I ask, who chatter against the Redeemer's promises, saying in the Gospel, 'But not a hair of your head will perish.'^[Luke 21.18] Let them cease, I say. For a hair is more precious that is provided to protect and adorn the head -- born of the flesh and rooted in the flesh -- than blocking filth out of a mass of sweat or corrupting out of whatever things you like that caresses the skin's surface. And behold, for it is not free from the service of miracles in the servants and handmaids of God. Therefore, he who was able to restore vision to a blind girl through the washing dirt from his handmaid is able to place hair on the heads of those restored to life in the resurrection or as he pleases on the body.<!--add a note: source? baldness? -->
+
+This is indeed a marvellous miracle and amazing power. *It is better to gain from this than from gold and silver,*^[Prov. 3.14] and from stones however precious you like. From this it is likewise pleasing to cry aloud, full of hope, saying with gladness, '*O Lord, our Lord, how excellent is your name*^[Ps. 8.1 (Vulg. 8.2), Ps. 8.9 (Vulg. 8.10)] in all your works.' They returned with joy and published this deed abroad throughout their neighbourhood.
 
 ## How she lived in the settlement called Binsey, and obtained a well by prayer
 
-[15] But the 'virgin most wise'^[Magnificat antiphon used for various Marian feasts.] did not endure 
-
-
+[15] But the 'virgin most wise'^[The opening of a Magnificat antiphon used for various Marian feasts.] did not wait until the stormy approval of flattery might snatch the vessel of oil from her hands, that when the bridegroom came she would not know from what source their lamps' light would form.^[Cf. Matt. 25.1–13] She thus decided that it would be useful to flee from the praises of people, by no means helpful to her, who wished to see her with wild wonder because of the greatness of the deed.
 
 Therefore, she called together the companions of her isolation and said, 'I judge that it is now the right time for us to approach our own monastery. For our sisters might perhaps, God forbid, have refrained from their good way of life, either in being typically anxious for us, or falling down a deep pit in sadness at our absence.'
 
-Thus she spoke, and went aboard the readied ship with her sisters. By the work of sailing, it was brought vigorously, running fleetly, to the settlement near the city called Binsey.
+Thus she spoke, and went aboard a readied boat with her sisters. By the work of sailing, it was brought vigorously, running fleetly, to the settlement near the city called Binsey.
 
-She disembarked from the ship to see clearly, considering the place. She considered that it would usefully be a short distance from the city, and devoting herself to beloved tranquillity. It would not be burdensome for the virgins whom she had left in the monastery to come; and it would be less suited to the inhabitants, always seeking something to wonder at for its newness.
+She disembarked from the boat to see clearly, considering the place. She considered that it would usefully be a short distance from the city, and devoting herself to beloved tranquillity. It would not be burdensome for the virgins whom she had left in the monastery to come; and it would be less suited to the inhabitants, always seeking something to wonder at for its newness.
 
-In the aforementioned settlement, there was a place planed with trees of many different kinds. It was called Thornbury in the Saxon tongue for the great number of different kinds of brambles -- isolated indeed and most suited to devotion. She built a chapel in it at once, and a great many buildings suited to the use of holy people. And because the riverbed was far away, and it seemed inappropriate to her that the sisters should go there to drink, she obtained a well by prayer. It is there to this day, providing the free gift of health to many who drink from it.
+In the settlement mentioned earlier there was a place planed with trees of many different kinds. It was called Thornbury in the Saxon tongue for the great number of different kinds of brambles -- isolated indeed and most suited to devotion. She built a chapel in it at once, and a great many buildings suited to the use of holy people. And because the riverbed was far away, and it seemed inappropriate to her that the sisters should go there to drink, she obtained a well by prayer. It is there to this day, providing the free gift of health to many who drink from it.
 
 She was hoping to hide here, to devote herself to beloved tranquillity and avoid the crowds of people.
 
-## How she loosened a man's hand from an axe's haft by her prayers
+## How she loosed a man's hand from an axe's haft by her prayers
 
-[16]
+[16] What are you attempting, beloved virgin of God? What, I say? Do you seek places of concealment? But you cannot succeed to escape notice for long. The Lord says in the Gospel, 'A city set on a mountain cannot be hidden.' You are indeed a city of Christ, the king of all things, built with towers of virtues and defences of good works, and established on that mountain which is 'a stone cut out of a mountain without hands'^[Dan. 2.34, 2.45] and has 'filled the whole world.'^[Dan. 2.35] But you subdue yourself with great humility, and 'whoever humbles himself will be exalted',^[Matt. 23.12] says the same Lord. Be it so. Human sport will by no means seek you, because you are crucified to the world, but the pitiable and oppressed need of the infirm will not cease from searching you out.
+
+Behold, an unfortunate young man close by you in a village called Seacourt: while he was cutting down trees with an axe on a Sunday, not furnishing respect for the day of the Lord's resurrection. His hands (but I shudder to tell it) stuck to the haft at once. He was burned to such a degree that, shouting dreadfully because of the pain's unbearableness, he drove his neighbours to run unwillingly towards the scene. For he could not release his hand because of the pain or loose his fingers from the haft.
+
+The wretched man stood shouting and wailing; his parents stood weeping and scourging themselves with their fists; and his neighbours were terrified of God's vengeful anger, fearing tortures up to death. Why not? Indeed, they beheld an unendurable punishment in the man, and no way to offer help.
+
+Finally, turning round to one another in turn, they said, 'Could not the most blessed virgin Frideswide free our son from this torture by her devout virtues, from whose hands a falling drop of water could restore sight to a blind girl? Let us also lead this man to her dwelling, so that she might feel pity for us and free our son.'
+
+Fitly indeed, I will strongly approve your faith with a show of the example. Pull out, I ask, the one wishing to lie hidden -- pull her out, I say -- and ask for what she will not be able to deny because of her devoutness, showing openly before all how much her virtues have power with God. They do not seek her own glory but his.^[cf. John 7.18]
+
+And without delay, after crossing the river, the young man stood before the virgin's dwelling place. He shouted to her, and requested a remedy of health, cutting short his voice with sobbing.
+
+'Blessed Frideswide', they said, 'have mercy on a young man, suffering tortures because of his own offence. For we know, and we know well, that if you wish it his pain will be released by your prayers and he will be given back his earlier health.
+
+What will you do, virgin, at such a mournful voice, before such wailing with great misery? Surely the wretched people will not go back deprived of compassion? Surely devoutness will not refuse to grant what your desire of escaping notice was preparing to deny? Behold, the unhappy parents are pleading with prayers, and they are knocking, seeking according to the Saviour's word^[cf. Matt. 7.7–8] so that the pain might be sent away from their son by your intercession, and a remedy of health granted.
+
+Finally therefore, Frideswide came forth, conquered by devoutness, and thus she prayed with rising tears: 'Adonai, Lord God, Father almighty, great and marvellous, who freed your burdened people Israel from the yoke of slavery through the lawgiver Moses, and called upon the Ninevites to return from their unrighteousness through Jonah, unharmed in the belly of a whale: I pray you, Lord, merciful and compassionate through your only-begotten, our Redeemer made before the deeds of these men, do not send away your compassion from these your servants, but provide what they ask, that they might know that you are powerful in all your works, remaining in all ages.'
+
+After she said this and marked him with the sign of the healing cross, his hand was lossed from the haft, and he was restored to his earlier health.
 
 ## The fisherman freed from a demon
 
+[17] A short time later, some fishermen were sitting on a little boat in the dead of night. They were waiting to catch prey, with their nets cast. While they were falling asleep, as drowsiness weighed them down, one of them was rolled around, suddenly seized by a demon. A little while after, he made a rush on one of his companions. He prepared to tear him with his teeth and strangle him with his hands. This was a cause of dread and grief to the others. But the rest overcame him, binding his hands behind his back, and led him to the virgin's dwelling place.
 
+When she had gazed upon him, she felt compassion for the misery of people who came to such distress because of their own misdeed that they could be handed over to the arrogance of demons. She groaned, and summoning back her voice from on high, after she poured forth tears  most copiously with a sigh. She first offered prayers to the Lord, and then stretched out her hand to the wretch, forming the sign of the healing cross against the demon. And then she said, 'I adjure you, Satan, through the great name of the Son of the living God, and of our Lord Jesus Christ: depart from this man, made in his image, and from henceforth do not presume to possess him further.
+
+At the virgin's voice the man fell down as if wounded by a fatal blow; and after the author of death was cast out, who had made him wickedly strong, he was made as if dead. This appearance of his body revealed in what a state his soul was, after having been possessed by such an enemy. Seeing this, the virgin drew near, and laying her hand upon him, she said, 'Rise, O man, in the name of Christ Jesus of Nazareth.'
+
+He suddenly rose, restored to good health in mind and body. And he did not refrain from mentioning the deed, but wherever he went, he made known in the everyone's hearing how powerfully he had been cured through the virtues of Frideswide, beloved to God.
 
 ## The leper healed by her kiss
 
-
+[18] The most blessed virgin shone in these and other miracles in great numbers as the progression of days passed. The hour fell to the end of her worldly life, as common need pressed her on. And because God, the author of salvation, worked a multitude of such miracles through her, mortal weakness would hardly trust their writer -- with more completely left out.
 
 ## How Sts Catherine and Cecilia were seen at her death, and light and fragrance poured forth
 
+[19]
 
+[20]
+
+[21]
 
 ## How a certain paralytic and a cripple were healed at her funeral
 
 [22]
+
+[23]
 
 [24] The blessed virgin was buried in the basilica of the chaste ever-virgin Mary, the mother of God, on the south side, near the the bank of the River Thames. For that was the basilica's position until the time of King Æthelred. After the burning of the Danes who fled there, [In 1002: @blair:1988frideswides, p. 000<!--give ref-->; see Æthelred's charter, translated in @whitelock:1979english, pp. 590--593] he enlarged the basilica's extent, just as he had vowed before. It was doubtless done from this time, because the tomb, which had once been to one side, thereafter formed part of the centre. [@blair:1988frideswides, p. 247<!-- chk range --> discusses this arrangement] In that place, so many and great were the miracles that happened through her virtues, that people's faith could not absorb them, nor writers' attention gather them; through our Lord Jesus Christ, to whom is honour and dominion into the ages of ages. Amen.
